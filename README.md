@@ -39,6 +39,26 @@ Built using Flask, Scikit-Learn, Random Forest Regression, and deployed on Rende
 ---
 
 
+# 📸 Application Screenshots :
+
+## 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+---
+
+## 💰 Prediction Result
+
+![Prediction](screenshots/prediction.png)
+
+---
+
+## 📊 Feature Importance Visualization
+
+![Feature Importance](screenshots/chart.png)
+
+---
+
 
 # 📌 Features :
 
