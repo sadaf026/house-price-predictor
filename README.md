@@ -1,12 +1,22 @@
-#  🏡 AI House Price Prediction System :
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Flask](https://img.shields.io/badge/Flask-Web%20App-black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Deployment](https://img.shields.io/badge/Deployment-Render-purple)
 
 
+# 🏡 AI House Price Prediction System
 
-A Machine Learning web application that predicts house prices based on multiple property features such as area, bedrooms, bathrooms, location, property type, and age of the property.
+An AI-powered Machine Learning web application that predicts house prices using property features like:
 
+- Area
+- Bedrooms
+- Bathrooms
+- Location
+- Property Type
+- Property Age
 
-
-This project uses a Random Forest Regression model with a complete ML pipeline and is deployed live using Flask and Render.
+Built using Flask, Scikit-Learn, Random Forest Regression, and deployed on Render.
 
 
 
