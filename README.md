@@ -1,4 +1,4 @@
-\# # 🏡 AI House Price Prediction System :
+#  🏡 AI House Price Prediction System :
 
 
 
@@ -14,7 +14,7 @@ This project uses a Random Forest Regression model with a complete ML pipeline a
 
 
 
-\# 🚀 Live Demo :
+# 🚀 Live Demo :
 
 
 
@@ -30,7 +30,7 @@ This project uses a Random Forest Regression model with a complete ML pipeline a
 
 
 
-\# 📌 Features :
+# 📌 Features :
 
 
 
@@ -56,7 +56,7 @@ This project uses a Random Forest Regression model with a complete ML pipeline a
 
 
 
-\# 🧠 Machine Learning Workflow :
+# 🧠 Machine Learning Workflow :
 
 
 
@@ -80,7 +80,7 @@ This project uses a Random Forest Regression model with a complete ML pipeline a
 
 
 
-\# 📊 Model Performance :
+# 📊 Model Performance :
 
 
 
@@ -104,7 +104,7 @@ Algorithm Used:
 
 
 
-\# 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 
 
@@ -118,13 +118,13 @@ Algorithm Used:
 
 
 
-\## Backend
+## Backend
 
 \- Flask (Python)
 
 
 
-\## Machine Learning 
+## Machine Learning 
 
 \- Scikit-Learn
 
@@ -138,7 +138,7 @@ Algorithm Used:
 
 
 
-\## Deployment
+## Deployment
 
 \- Render
 
@@ -150,7 +150,7 @@ Algorithm Used:
 
 
 
-\# 📁 Project Structure :
+# 📁 Project Structure :
 
 
 
@@ -222,21 +222,21 @@ house\_price\_ml\_project/
 
 
 
-\# ⚙️ Installation \& Setup :
+# ⚙️ Installation \& Setup :
 
 
 
-\## Clone Repository
+## Clone Repository
 
 
 
-```bash
+
 
 git clone https://github.com/sadaf026/house-price-predictor.git
 
 
 
-\#📈 Feature Importance :
+# 📈 Feature Importance :
 
 
 
@@ -260,7 +260,7 @@ Age
 
 
 
-\#🌐 Deployment :
+# 🌐 Deployment :
 
 
 
@@ -276,7 +276,7 @@ GitHub Integration
 
 
 
-\#🔮 Future Improvements:
+# 🔮 Future Improvements:
 
 
 
@@ -296,15 +296,15 @@ Add database integration
 
 
 
-👩‍💻 Author
+# 👩‍💻 Author
 
 
 
-Developed by Sadaf
+## Developed by Sadaf
 
 
 
-\#⭐ Conclusion
+# ⭐ Conclusion
 
 
 
